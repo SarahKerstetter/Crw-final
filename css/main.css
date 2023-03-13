@@ -805,7 +805,8 @@ footer .copyright {
    .faq p {
     font-size: 1.125em;
     line-height: 1;
-    padding: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
    }
 /* ==========================================================================
    Print styles.
